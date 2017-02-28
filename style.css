@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;  /* just a quick hack to hide any scrollbars */
+}
+canvas {
+  border: 2px solid black;
+  margin: 0;
+  padding: 0;
+}
